@@ -1,0 +1,69 @@
+[submodule "vim/.vim/pack/plugins/start/vim-qf"]
+	path = vim/.vim/pack/plugins/start/vim-qf
+	url = https://github.com/romainl/vim-qf.git
+[submodule "vim/.vim/pack/plugins/start/vim-cool"]
+	path = vim/.vim/pack/plugins/start/vim-cool
+	url = https://github.com/romainl/vim-cool.git
+[submodule "vim/.vim/pack/plugins/start/vim-tinyMRU"]
+	path = vim/.vim/pack/plugins/start/vim-tinyMRU
+	url = https://github.com/romainl/vim-tinyMRU.git
+[submodule "vim/.vim/pack/plugins/start/vim-abolish"]
+	path = vim/.vim/pack/plugins/start/vim-abolish
+	url = https://github.com/tpope/vim-abolish.git
+[submodule "vim/.vim/pack/plugins/start/vim-commentary"]
+	path = vim/.vim/pack/plugins/start/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "vim/.vim/pack/plugins/start/vim-obsession"]
+	path = vim/.vim/pack/plugins/start/vim-obsession
+	url = https://github.com/tpope/vim-obsession.git
+[submodule "vim/.vim/pack/plugins/start/vim-surround"]
+	path = vim/.vim/pack/plugins/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "vim/.vim/pack/plugins/start/vim-vinegar"]
+	path = vim/.vim/pack/plugins/start/vim-vinegar
+	url = https://github.com/tpope/vim-vinegar.git
+[submodule "vim/.vim/pack/plugins/start/vim-dirvish"]
+	path = vim/.vim/pack/plugins/start/vim-dirvish
+	url = https://github.com/justinmk/vim-dirvish.git
+[submodule "vim/.vim/pack/plugins/start/vim-closer"]
+	path = vim/.vim/pack/plugins/start/vim-closer
+	url = https://github.com/rstacruz/vim-closer.git
+[submodule "vim/.vim/pack/plugins/opt/wal"]
+	path = vim/.vim/pack/plugins/opt/wal
+	url = https://github.com/dylanaraps/wal.git
+[submodule "vim/.vim/pack/plugins/start/vim-matchup"]
+	path = vim/.vim/pack/plugins/start/vim-matchup
+	url = https://github.com/andymass/vim-matchup.git
+[submodule "vim/.vim/pack/plugins/start/vim-vue"]
+	path = vim/.vim/pack/plugins/start/vim-vue
+	url = https://github.com/posva/vim-vue.git
+[submodule "vim/.vim/pack/plugins/start/Apprentice"]
+	path = vim/.vim/pack/plugins/start/Apprentice
+	url = https://github.com/romainl/Apprentice.git
+[submodule "vim/.vim/pack/plugins/start/vim-javascript"]
+	path = vim/.vim/pack/plugins/start/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "vim/.vim/pack/plugins/start/vim-jsx-pretty"]
+	path = vim/.vim/pack/plugins/start/vim-jsx-pretty
+	url = https://github.com/MaxMEllon/vim-jsx-pretty.git
+[submodule "vim/.vim/pack/plugins/start/typescript-vim"]
+	path = vim/.vim/pack/plugins/start/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "vim/.vim/pack/plugins/start/tsuquyomi"]
+	path = vim/.vim/pack/plugins/start/tsuquyomi
+	url = https://github.com/Quramy/tsuquyomi.git
+[submodule "vim/.vim/pack/plugins/start/vim-tex"]
+	path = vim/.vim/pack/plugins/start/vim-tex
+	url = https://github.com/lervag/vimtex.git
+[submodule "vim/.vim/pack/plugins/start/vim-graphql"]
+	path = vim/.vim/pack/plugins/start/vim-graphql
+	url = https://github.com/jparise/vim-graphql.git
+[submodule "vim/.vim/pack/plugins/opt/vim-lsp"]
+	path = vim/.vim/pack/plugins/opt/vim-lsp
+	url = https://github.com/prabirshrestha/vim-lsp
+[submodule "vim/.vim/pack/plugins/start/vim-slime"]
+	path = vim/.vim/pack/plugins/start/vim-slime
+	url = https://github.com/jpalardy/vim-slime.git
+[submodule "vim/.vim/pack/plugins/opt/vim-ghcid-quickfix"]
+	path = vim/.vim/pack/plugins/opt/vim-ghcid-quickfix
+	url = https://github.com/aiya000/vim-ghcid-quickfix.git
